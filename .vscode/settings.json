@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Library/Java/Extensions/org-junit-platform-junit-platform-console-standalone-1.6.0-junit-platform-console-standalone-1.6.0.jar",
+        "gson-2.8.5.jar"
+    ]
+}
